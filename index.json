@@ -1,4 +1,5 @@
 {
     "database_url":"https://script.google.com/macros/s/AKfycbyrGxlOMWk78YuWfzXiCqbSXFjAWvhLEb4N1z_tCslinwPtAoqRTFS0dJcXbGhhdj9iyw/exec",
-    "vercel_api":"https://leetos-api-mocha.vercel.app"
+    "vercel_api":"https://leetos-api-mocha.vercel.app",
+    "latest_version":11
 }
