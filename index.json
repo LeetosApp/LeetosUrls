@@ -3,5 +3,6 @@
     "vercel_api":"https://leetos-api-mocha.vercel.app",
     "latest_version":11,
     "flag":1,
-    "msg":"Hey I have a message!"
+    "msg":"Hey I have a message!",
+    "options":["Yes","No"]
 }
