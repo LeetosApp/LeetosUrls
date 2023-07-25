@@ -2,7 +2,7 @@
     "database_url":"https://script.google.com/macros/s/AKfycbwRlCLdyDqcvpr5IT822Nz_LK86DE2jcxLpqOMmOcA90BVYSeoAU7zjcft9O8CVhVMjQA/exec",
     "vercel_api":"https://leetos-api-mocha.vercel.app",
     "latest_version":13,
-    "flag":0,
+    "flag":1,
     "msg":"This is a test alert. Kindly ignore",
     "options":[]
 }
