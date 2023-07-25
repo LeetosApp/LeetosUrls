@@ -3,6 +3,6 @@
     "vercel_api":"https://leetos-api-mocha.vercel.app",
     "latest_version":13,
     "flag":0,
-    "msg":"",
+    "msg":"This is a test alert. Kindly ignore",
     "options":[]
 }
